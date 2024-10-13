@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/FoxxyD3v"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" style="border-radius: 15px;" /></a>
-  <a href="https://discord.com/users/1188757093172400218"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord" style="border-radius: 15px;" /></a>
+  <a href="https://discord.com/users/._foxxyv2"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord" alt="Discord" style="border-radius: 15px;" /></a>
 </p>
 
 ---
