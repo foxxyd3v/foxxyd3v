@@ -18,7 +18,7 @@
 - **Backend:** Python
 - **Databases:** MySQL
 - **Scripting:** Batch, Arduino
-- **Cybersecurity:** Ethical Hacking, Vulnerability Scanning, Network Security, Penentration Testing, SQL Injections
+- **Cybersecurity:** Ethical Hacking, Vulnerability Scanning, Network Security
 - **Software Security:** Reverse Engineering, Hash Cracking
 - **Development:** Passionate about software development for both phones and PC.
 - **Experience:** 5 Years of Coding & Ethical Hacking
