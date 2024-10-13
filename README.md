@@ -16,9 +16,10 @@
 
 - **Frontend:** HTML, CSS
 - **Backend:** Python
+- **Databases:** MySQL
 - **Scripting:** Batch, Arduino
 - **Cybersecurity:** Ethical Hacking, Vulnerability Scanning
-- **Experience:** 5 Years of Coding & Hacking
+- **Experience:** 5 Years of Coding & Ethical Hacking
 
 ---
 
