@@ -19,7 +19,7 @@
 - **Databases:** MySQL
 - **Scripting:** Batch, Arduino
 - **Cybersecurity:** Ethical Hacking, Vulnerability Scanning, Network Security
-- **Software Security:** Reverse Engineering, Hash Cracking
+- **Software Security:** Reverse Engineering
 - **Development:** Passionate about software development for both phones and PC.
 - **Experience:** 5 Years of Coding & Ethical Hacking
 
